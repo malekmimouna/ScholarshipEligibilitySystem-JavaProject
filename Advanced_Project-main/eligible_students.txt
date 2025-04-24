@@ -1,0 +1,37 @@
+=== List of Eligible Students ===
+
+Name: Malek
+GPA: 3.9
+Income: 2500.0
+Age: 20
+-----------------------------
+Name: Israa
+GPA: 3.2
+Income: 4000.0
+Age: 22
+-----------------------------
+Name: Maether
+GPA: 3.8
+Income: 3500.0
+Age: 19
+-----------------------------
+Name: Malek
+GPA: 3.8
+Income: 4000.0
+Age: 20
+-----------------------------
+Name: Aicha
+GPA: 3.6
+Income: 3200.0
+Age: 21
+-----------------------------
+Name: asma
+GPA: 4.0
+Income: 560.0
+Age: 21
+-----------------------------
+Name: sami
+GPA: 5.0
+Income: 450.0
+Age: 17
+-----------------------------
